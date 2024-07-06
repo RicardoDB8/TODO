@@ -2,6 +2,8 @@ import React from 'react';
 import { TodoContext } from '../TodoContext';
 import './TodoCounter.css';
 
+import dogImage from './dog_pixar_style.png';
+
 
 function TodoCounter() {
   const {
@@ -9,11 +11,14 @@ function TodoCounter() {
     totalTodos,
   } = React.useContext(TodoContext)
 
-    return (
+  return (
+    <div className="centered-container">
+      <img src={dogImage} alt="Perro" className="img-resize"/>
       <h1 className='TodoCounter'>
         Haz completado <span>{completedTodos}</span> de <span>{totalTodos}</span> TODOS
       </h1>
-    );
+    </div>
+  );
   }
 
   export { TodoCounter }

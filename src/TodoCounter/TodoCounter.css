@@ -4,3 +4,28 @@ h1 {
     margin: 0;
     padding: 48px;
     }
+
+    /* TodoCounter.css */
+.todo-counter-wrapper {
+    display: flex;
+    align-items: center;
+  }
+  
+  .todo-image {
+    width: 100px; /* o el tamaño que prefieras */
+    margin-right: 20px;
+  }
+
+  .centered-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .img-resize {
+    width: 200px;   /* Ajusta según tus necesidades */
+    height: auto;   /* Mantiene la proporción de la imagen */
+  }
+  
+  
