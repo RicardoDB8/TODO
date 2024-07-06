@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TODO/static/css/main.7f49885d.css",
+    "main.js": "/TODO/static/js/main.47ae2a0b.js",
+    "static/media/dog_pixar_style.png": "/TODO/static/media/dog_pixar_style.f4f7f1a600f1d03a79ff.png",
+    "index.html": "/TODO/index.html",
+    "static/media/delete.svg": "/TODO/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
+    "static/media/check.svg": "/TODO/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
+    "main.7f49885d.css.map": "/TODO/static/css/main.7f49885d.css.map",
+    "main.47ae2a0b.js.map": "/TODO/static/js/main.47ae2a0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f49885d.css",
+    "static/js/main.47ae2a0b.js"
+  ]
+}
