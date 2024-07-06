@@ -15,7 +15,7 @@ function TodoCounter() {
     <div className="centered-container">
       <img src={dogImage} alt="Perro" className="img-resize"/>
       <h1 className='TodoCounter'>
-        Haz completado <span>{completedTodos}</span> de <span>{totalTodos}</span> TODOS
+        Haz completado <span>{completedTodos}</span> de <span>{totalTodos}</span> TAREAS
       </h1>
     </div>
   );
